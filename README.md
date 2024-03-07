@@ -25,6 +25,13 @@ por ofrecer la mas destacadas ofertas y descuentos en un amplio catalogo.
 ## Tabla de contenido
 
 - [💻 Sobre NEXUS](#💻-sobre-nexus)
+- [⚒️ Sobre Tecnologias](#⚒️-tecnología-implementadas)
+- [✅ Sobre Requisitos](#✅-requisitos)
+- [💿 Sobre Instalacion](#💿-instalacion)
+- [🤝 Sobre Contribuir](#🤝-como-contribuir)
+- [👨‍💻 Sobre Autores](#👨‍💻-autores)
+- [📞 Sobre Contacto](#📞-contactanos)
+- [📄 Sobre Licencia](#📄-licencia)
 
 ## 💻 Sobre NEXUS
 
@@ -100,7 +107,6 @@ Para contribuir, por favor seguir los siguente pasos:
 ## 📄 Licencia
 
 Codigo y documentación copyright 2023-2024 de los autores de NEXUS. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
-
 
 <!-- Markdown links & images -->
 
